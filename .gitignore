@@ -1,3 +1,6 @@
 .vscode
 *.so
 .idea/
+go.sum
+go.mod
+kl
