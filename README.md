@@ -19,6 +19,3 @@ then just run it and it's done.
 ```shell
 $ ./x11goklogger
 ```
-
-## License
-License [MIT](LICENSE)
